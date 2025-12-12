@@ -1,3 +1,5 @@
+package LAB_1;
+
 public class p1 {
     public static void main(String[] args) {
         String name = "YourName";

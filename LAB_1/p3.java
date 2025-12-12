@@ -1,3 +1,5 @@
+package LAB_1;
+
 public class p3 {
     public static void main(String[] args) {
         int dayNo = 3; // change the day number (1–7)

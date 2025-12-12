@@ -1,3 +1,5 @@
+package LAB_1;
+
 public class p4 {
     public static void main(String[] args) {
         int num = 121; // change number here

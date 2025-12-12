@@ -1,3 +1,5 @@
+package LAB_1;
+
 public class p2 {
     public static void main(String[] args) {
         int marks = 85; // change marks here
